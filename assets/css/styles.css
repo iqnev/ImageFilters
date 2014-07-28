@@ -1,0 +1,25 @@
+button{
+    padding: 5px 17px;
+    border-radius: 2px;
+    border: 1px solid #EEE;
+    background-color: #DDD;
+    box-shadow: 0 -11px 0 #C9C9C9 inset;
+    cursor: pointer;
+}
+
+
+ #result, #html {
+background-color: #1C1C21;
+border-radius: 3px;
+height: 400px;
+font-size: 12px;
+margin-bottom: 10px;
+min-width: 200px;
+}
+
+#result {
+padding: 10px 15px;
+height: 380px;
+overflow-y: auto;
+height: auto;
+}
